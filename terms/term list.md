@@ -7,6 +7,7 @@
 For example:
 
 standard  horizontal text: `Hello`
+
 vertical descent of text:
 
 ```
